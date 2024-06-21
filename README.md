@@ -12,7 +12,7 @@
        
 Creator: User12778309
 Langage: Python
-Platform: Windows
+Platform: Windows 11 
 ```
 
 
