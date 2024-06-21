@@ -1,4 +1,4 @@
-# WannyDied.exe
+# WannaDied.exe
 
 ```
  __      __                             ________  .__           .___
