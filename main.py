@@ -1,13 +1,20 @@
 # import modules/library
 from urllib.request import urlretrieve
 from tqdm import trange
+from tkinter import messagebox
 import time
 import ctypes
 import os
 import shutil
+import getpass
+
+# alert function
+def alert():
+    messagebox.showwarning("WannaDied","Y0ur w4s 1nf3ct 8y W4nnaDi3d")
 
 # show in console function
 def show_in_console():
+    print("popup spawn success")
     for i in trange(1):
         time.sleep(1)
     print("wallpaper.jpg download success")
@@ -26,7 +33,10 @@ def set_background():
     image = ctypes.c_wchar_p(wallpaper_path)
     ctypes.windll.user32.SystemParametersInfoW(20,0,image,0)
 
+# move desktop
+
 # call all functions
+alert()
 show_in_console()
 download_wallpaper()
 set_background()
