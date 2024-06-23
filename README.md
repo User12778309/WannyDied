@@ -12,7 +12,7 @@
        
 Creator: User12778309
 Langage: Python
-Platform: Windows 11 
+Platform: Windows 11 ( for other platform later ) 
 Help : BlackBox AI
 ```
 
