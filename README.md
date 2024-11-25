@@ -23,6 +23,13 @@ Help : BlackBox AI
 # <ins>Remake of WannaCry ( more fun and frendly )<ins>
 
 <br>
+<br>
+
+## Demo
+
+![DEMO VIDEO](./demo.gif)
+
+<br>
 
 ## Usage
 ```
