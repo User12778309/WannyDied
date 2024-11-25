@@ -26,8 +26,9 @@ Help : BlackBox AI
 
 ## Usage
 ```
-Go to /windows 11/window11_10.exe 
-Run it 
+Go to /windows 11/
+Lanch CMD
+Run python3 window11_10.py / py window11_10.py
 Enjoy :)
 
 ```
