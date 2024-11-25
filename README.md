@@ -17,20 +17,25 @@ Help : BlackBox AI
 ```
 
 
-### Reprendre un depot
-> git clone <url.git>
+<br>
+<br>
 
-### Reprendre les modifs
-> git pull
+# <ins>Remake of WannaCry ( more fun and frendly )<ins>
 
-### Etat de git 
-> git status
+<br>
 
-### Ajouter les fichiers au commit
-> git add *
+## Usage
+```
+Go to /windows 11/window11_10.exe 
+Run it 
+Enjoy :)
 
-### Commit en local
-> git commit -m "Message"
+```
 
-### Pousser sur le serveur
-> git push
+<br>
+
+## DEV
+```
+Go to /windows 11/window11_10.py
+Happy DEV :)
+```

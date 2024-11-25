@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f40c83bc-af0e-417c-9263-6f89f7a2083a" name="Changes" comment="window11.py end ( and  help in README.md )">
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/windows 11/window11.py" beforeDir="false" afterPath="$PROJECT_DIR$/windows 11/window11_10.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="2iCy58MOy1AKxkRyRDyC53y2Llm" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Documents persos\Git Hub\WannyDied\windows 11" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f40c83bc-af0e-417c-9263-6f89f7a2083a" name="Changes" comment="" />
+      <created>1719008667710</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1719008667710</updated>
+    </task>
+    <task id="LOCAL-00001" summary="add README.md">
+      <option name="closed" value="true" />
+      <created>1719008691267</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1719008691267</updated>
+    </task>
+    <task id="LOCAL-00002" summary="add README.md">
+      <option name="closed" value="true" />
+      <created>1719008730565</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1719008730565</updated>
+    </task>
+    <task id="LOCAL-00003" summary="add main.py">
+      <option name="closed" value="true" />
+      <created>1719010411960</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1719010411960</updated>
+    </task>
+    <task id="LOCAL-00004" summary="add show_in_console function">
+      <option name="closed" value="true" />
+      <created>1719053066759</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1719053066759</updated>
+    </task>
+    <task id="LOCAL-00005" summary="add alert function">
+      <option name="closed" value="true" />
+      <created>1719053905857</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1719053905857</updated>
+    </task>
+    <task id="LOCAL-00006" summary="window11.py end ( and  help in README.md )">
+      <option name="closed" value="true" />
+      <created>1719063751020</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1719063751020</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="add README.md" />
+    <MESSAGE value="add main.py" />
+    <MESSAGE value="add show_in_console function" />
+    <MESSAGE value="add alert function" />
+    <MESSAGE value="window11.py end ( and  help in README.md )" />
+    <option name="LAST_COMMIT_MESSAGE" value="window11.py end ( and  help in README.md )" />
+  </component>
+</project>
